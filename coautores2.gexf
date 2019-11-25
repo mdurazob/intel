@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-11-24">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="cluster" title="cluster" type="long"></attribute>
+      <attribute id="weight&lt;links&gt;" title="weight&lt;links&gt;" type="double"></attribute>
+      <attribute id="weight&lt;total_link_strength&gt;" title="weight&lt;total_link_strength&gt;" type="double"></attribute>
+      <attribute id="weight&lt;documents&gt;" title="weight&lt;documents&gt;" type="double"></attribute>
+      <attribute id="score&lt;avg._pub._year&gt;" title="score&lt;avg._pub._year&gt;" type="double"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="47" label="abrell, jan">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.6667"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-597.06274" y="-415.43066"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="161" label="alberola, emilie">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="13.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.0769"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-918.6075" y="635.10956"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="163" label="albrecht, johan">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="207.3325" y="-1063.2246"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="178" label="alexeeva-talebi, viktoria">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.6"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-419.7682" y="-56.84577"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="290" label="anger, niels">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.7"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-436.33133" y="-137.70746"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="301" label="antes, ralf">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="15.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.7778"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1213.3639" y="-415.2761"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="334" label="arimura, toshi h.">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.6667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="447.55725" y="529.8189"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="428" label="azar, christian">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.1667"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-67.088684" y="226.30481"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="479" label="bailey, elizabeth m.">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="17.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2004.6"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.91844" y="-183.15813"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="480" label="bailey, ian">
+        <attvalues>
+          <attvalue for="cluster" value="18"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.5"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-215.42381" y="1071.5181"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="762" label="betz, regina">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="19.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="14.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.5714"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-219.3222" y="577.3215"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="781" label="bi, jun">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.6"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.73395" y="781.16656"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="892" label="bode, sven">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2005.8571"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="446.054" y="1.0176653"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="907" label="bohringer, christoph">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2005.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-381.51935" y="-131.18518"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="1057" label="brewer, thomas l.">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.4"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="573.2919" y="-200.10591"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="1139" label="buchner, barbara">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2005.8571"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="208.1079" y="-268.2914"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="1140" label="buchner, barbara k.">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.8571"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.09563" y="-249.65495"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="1186" label="burtraw, dallas">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="28.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="40.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.625"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="534.7051" y="388.8209"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="1204" label="butzengeiger, sonja">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="15.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="16.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.1875"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="386.73166" y="25.855783"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="1213" label="böhringer, christoph">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="10.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="34.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="30.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.7"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-368.00372" y="-169.46625"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="1353" label="carraro, carlo">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="14.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="14.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.0"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="188.74712" y="-258.2405"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="1370" label="cason, timothy n.">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.5"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="120.82898" y="-1239.7789"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="1468" label="chang, kai">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.5385"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-961.4613" y="673.1507"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="1595" label="chen, yihsu">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="16.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.6875"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="862.1506" y="-456.94775"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="1642" label="chernyavs'ka, liliya">
+        <attvalues>
+          <attvalue for="cluster" value="22"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="554.3316" y="-1080.8824"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="1646" label="chevallier, julien">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="26.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="47.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.6596"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-902.30597" y="625.4019"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="1684" label="choi, yongrok">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.2857"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="353.7808" y="989.40845"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1732" label="chèze, benoît">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="10.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.4"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-925.03644" y="643.0438"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="1776" label="clò, stefano">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="18.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.2222"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.27551" y="-1029.0723"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="1857" label="convery, frank">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.9167"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="227.9738" y="-705.78424"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1922" label="couwenberg, oscar">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.625"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="272.29016" y="-983.8826"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="2021" label="czerny, albert">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.4"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1251.6979" y="-384.13562"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2031" label="d'haeseleer, william">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="214.2479" y="-500.8511"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2188" label="de perthuis, christian">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.2857"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="309.74005" y="-763.02515"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2201" label="de vries, frans p.">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="168.94658" y="-1105.8942"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="2245" label="delarue, erik">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.2857"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="205.14934" y="-486.62137"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2261" label="demailly, damien">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.2"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-586.1168" y="574.5258"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="2269" label="den elzen, michel g. j.">
+        <attvalues>
+          <attvalue for="cluster" value="19"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.375"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-716.71155" y="400.69003"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="2290" label="denny ellerman, a.">
+        <attvalues>
+          <attvalue for="cluster" value="20"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.8571"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.95947" y="-373.66016"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="2330" label="di maria, corrado">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.1111"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="228.08917" y="-724.3603"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2501" label="duan, maosheng">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="19.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.6316"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-703.5848" y="-274.05856"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2545" label="duscha, vicki">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.625"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-166.95433" y="543.7762"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="2593" label="edenhofer, ottmar">
+        <attvalues>
+          <attvalue for="cluster" value="16"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="28.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="20.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.05"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="634.5939" y="494.52594"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="2625" label="ehrhart, karl martin">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="14.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.1667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-144.31416" y="676.2749"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="2629" label="eichhammer, wolfgang">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.2857"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-269.15778" y="638.8105"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="2635" label="eikeland, per ove">
+        <attvalues>
+          <attvalue for="cluster" value="17"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.7143"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1068.9895" y="-548.4051"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2667" label="ellerman, a.  denny">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2004.8"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-69.00129" y="-384.1912"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2669" label="ellerman, a. denny">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="36.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="28.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.75"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="143.84505" y="-231.03561"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="2670" label="ellerman, denny">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="197.54538" y="-632.1795"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2835" label="fan, ying">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="18.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.8889"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-303.42917" y="674.51605"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="2871" label="faulstich, martin">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1147.4237" y="-413.3942"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2874" label="faure, michael">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.6874" y="-982.22894"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="2992" label="fischer, carolyn">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="14.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.7143"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="439.3765" y="450.0214"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="3016" label="flachsland, christian">
+        <attvalues>
+          <attvalue for="cluster" value="16"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="27.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.3846"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="601.3178" y="488.9077"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="3204" label="fuss, sabine">
+        <attvalues>
+          <attvalue for="cluster" value="16"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="17.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.4286"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="687.7785" y="509.13876"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="3260" label="gangadharan, lata">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.4"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="121.24881" y="-1257.6865"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="3324" label="gawel, erik">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="16.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.1111"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="1103.4656" y="-425.93744"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="3646" label="gronwald, marc">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.5"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="563.5603" y="-986.26227"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="3649" label="grosjean, godefroy">
+        <attvalues>
+          <attvalue for="cluster" value="16"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="14.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.8"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="697.9328" y="526.87463"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="3674" label="grubb, michael">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="10.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="17.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="22.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.4545"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-231.43109" y="288.19174"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="3719" label="gulbrandsen, lars h.">
+        <attvalues>
+          <attvalue for="cluster" value="17"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.875"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-1038.9156" y="-558.31964"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="3723" label="gullì, francesco">
+        <attvalues>
+          <attvalue for="cluster" value="22"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.2222"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="546.84" y="-1065.8878"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="3845" label="haites, erik">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.0909"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="853.99084" y="-681.84125"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="3916" label="hansjürgens, bernd">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="24.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="16.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.8125"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="1189.0144" y="-414.91534"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="3955" label="harrison, david">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2005.2"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-689.78815" y="723.73505"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="4010" label="haurie, alain">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.8"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-186.53716" y="-487.85376"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4081" label="heindl, peter">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.7778"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-409.19516" y="123.14555"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="4100" label="helm, dieter">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.4286"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-121.13038" y="357.61545"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="4142" label="hepburn, cameron">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.6364"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-165.69522" y="329.81253"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="4220" label="hintermann, beat">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.5714"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="548.62335" y="-973.2501"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="4250" label="hobbs, benjamin f.">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2006.5"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="854.09454" y="-449.70038"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="4268" label="hof, andries f.">
+        <attvalues>
+          <attvalue for="cluster" value="19"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.2"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-703.4923" y="387.6911"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="4289" label="holm-müller, karin">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.2"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="1149.2601" y="-427.45258"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4324" label="hoppe, christian">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="16.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2005.7143"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-152.31601" y="659.04095"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="4401" label="hu, yu jie">
+        <attvalues>
+          <attvalue for="cluster" value="23"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2018.0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1037.6005" y="523.7515"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="4428" label="huang, jie">
+        <attvalues>
+          <attvalue for="cluster" value="18"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-205.7651" y="1194.422"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4550" label="hübler, michael">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.6"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-323.47714" y="39.54212"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="4626" label="ismer, roland">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.8"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-367.7643" y="394.76517"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="4667" label="jacoby, henry d.">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2001.8"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-17.900759" y="-365.93527"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4684" label="jakob, michael">
+        <attvalues>
+          <attvalue for="cluster" value="16"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="656.4851" y="538.329"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="4724" label="jaraite, jurate">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.6667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="225.7551" y="-737.9329"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4777" label="jevnaker, torbjørg">
+        <attvalues>
+          <attvalue for="cluster" value="17"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.5556"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1012.53485" y="-539.9391"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4808" label="jiang, chao">
+        <attvalues>
+          <attvalue for="cluster" value="18"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-193.39392" y="1192.8796"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4931" label="jordan, andrew">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.8"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="721.09314" y="-409.46628"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="4947" label="joskow, paul l.">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="21.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2004.4286"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="145.48459" y="-183.98083"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="4949" label="jotzo, frank">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="21.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-393.01346" y="197.28557"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="5021" label="kallbekken, steffen">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.7143"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="448.54065" y="26.90582"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="5082" label="karplus, valerie j.">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="18.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.6667"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-540.03595" y="-341.68387"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="5172" label="kerr, suzi">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="22.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.0455"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="115.48561" y="451.88867"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="5188" label="kettner, claudia">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.2"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="698.6889" y="-670.07007"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="5314" label="klaassen, ger">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2005.2222"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-251.62518" y="-342.69376"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="5334" label="klepper, gernot">
+        <attvalues>
+          <attvalue for="cluster" value="19"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.0769"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-514.82184" y="225.78186"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="5384" label="koch, nicolas">
+        <attvalues>
+          <attvalue for="cluster" value="16"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="20.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.0909"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="672.90814" y="515.3294"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="5392" label="koesler, simon">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.4286"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-225.48468" y="-142.94044"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="5525" label="kruger, joseph">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2006.4"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="824.3105" y="-735.1104"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="5619" label="köhler, jonathan">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.625"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-211.43597" y="-151.96863"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="5694" label="lange, andreas">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="16.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2006.3846"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-360.5481" y="-144.50285"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="5876" label="lehmann, paul">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.1667"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="1062.4672" y="-430.77567"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="5924" label="letmathe, peter">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="17.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.8462"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="1220.8177" y="-404.8496"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6174" label="linares, pedro">
+        <attvalues>
+          <attvalue for="cluster" value="22"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.2222"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="571.72504" y="-1115.3251"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="6280" label="liu, lei">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-933.95557" y="-238.23785"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6336" label="liu, yu">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2017.8333"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="280.42227" y="831.60504"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6362" label="llschel, andreas">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-462.8495" y="8.682301"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="6506" label="lutz, benjamin johannes">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.5714"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-446.759" y="36.71602"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="6532" label="löfgren, åsa">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.8"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="486.09143" y="356.5306"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="6533" label="löschel, andreas">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="21.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="37.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="30.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.5667"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-349.13358" y="19.829725"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="6566" label="ma, xiaoming">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.5714"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-910.195" y="-233.23688"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6591" label="macgill, iain">
+        <attvalues>
+          <attvalue for="cluster" value="18"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-209.00533" y="1032.7427"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6671" label="managi, shunsuke">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.2857"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-477.2094" y="31.116453"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="6672" label="mandell, svante">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.875"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="517.8843" y="322.1726"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="6722" label="marcantonini, claudio">
+        <attvalues>
+          <attvalue for="cluster" value="20"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.8333"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="146.75359" y="-353.446"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="6768" label="marschinski, robert">
+        <attvalues>
+          <attvalue for="cluster" value="16"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.5556"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="630.7482" y="519.6479"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="6987" label="mehling, michael">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.1818"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="792.97424" y="-651.1702"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="7089" label="michaelowa, axel">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="18.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.8333"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="400.26822" y="23.856342"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="7158" label="missfeldt, fanny">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2001.25"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="873.81085" y="-692.7281"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="7234" label="montero, juan-pablo">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="19.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.1429"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="154.23224" y="-118.59052"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="7277" label="morgenstern, richard d.">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.1667"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="459.29254" y="596.5167"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="7301" label="moslener, ulf">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="19.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.4"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="-340.16095" y="-168.04152"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="7486" label="nentjes, andries">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.125"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="178.46648" y="-914.2434"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="7495" label="neuhoff, karsten">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="19.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="25.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.52"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="-339.2108" y="370.71683"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="7685" label="oberndorfer, ulrich">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.8333"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="-428.12363" y="-113.03452"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="7884" label="palmer, karen">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2005.4"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="557.8484" y="383.85178"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="7893" label="paltsev, sergey">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="17.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="17.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.3529"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="-149.87202" y="-301.7213"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="7919" label="pang, tao">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.2857"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-690.6451" y="-290.63147"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8065" label="peeters, marjan">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="23.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.6957"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="427.61722" y="-967.65826"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="8085" label="pena, naomi">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.6"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="771.68945" y="-594.62537"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="8158" label="peterson, sonja">
+        <attvalues>
+          <attvalue for="cluster" value="19"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="10.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.8462"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="-593.19366" y="342.9858"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="8205" label="pickl, stefan">
+        <attvalues>
+          <attvalue for="cluster" value="12"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.1667"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="1257.0116" y="-418.99625"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8247" label="pizer, william a.">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.8182"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="39.121326" y="83.10302"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8352" label="price, lynn">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.2"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-745.56866" y="-195.48315"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8432" label="qi, shaozhou">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2017.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="-646.32764" y="-178.77031"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8474" label="quirion, philippe">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="10.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="16.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.5625"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-571.786" y="561.1726"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="8580" label="rausch, sebastian">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.3333"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-582.10876" y="-392.06998"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8586" label="raymond, leigh">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.1667"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="104.27066" y="-1264.9888"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="8627" label="reilly, john">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.5556"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="-147.71265" y="-258.92142"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8628" label="reilly, john m.">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2006.1429"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-102.17994" y="-360.83044"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8800" label="rogge, karoline">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-204.80437" y="617.7829"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="8841" label="rose, adam">
+        <attvalues>
+          <attvalue for="cluster" value="21"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.6"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="274.6096" y="344.2629"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="8850" label="rosendahl, knut einar">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.4"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-387.23178" y="-220.99257"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="8935" label="rutherford, thomas f.">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.1667"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-375.06833" y="-198.4142"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="9073" label="sartor, oliver">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-426.7467" y="489.66504"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="9085" label="sato, misato">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.2"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="-346.55142" y="470.20825"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="9177" label="schleich, joachim">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="10.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="34.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="18.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2008.7222"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="67.27273"></viz:size>
+        <viz:position x="-182.75542" y="632.09924"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="9187" label="schmalensee, richard">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="26.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2006.25"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="127.21327" y="-198.6164"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="9250" label="schumacher, katja">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="-259.46005" y="563.3091"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="9312" label="seifert, stefan">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="16.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2006.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="-131.95517" y="643.98413"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="9543" label="sijm, jos">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="13.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.1667"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="67.27273"></viz:size>
+        <viz:position x="830.02264" y="-457.21"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="9628" label="skjærseth, jon birger">
+        <attvalues>
+          <attvalue for="cluster" value="17"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="14.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.9286"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-1039.7056" y="-533.6349"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="9767" label="sorrell, steve">
+        <attvalues>
+          <attvalue for="cluster" value="14"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2003.875"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-656.0786" y="674.1947"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="9849" label="stavins, robert n.">
+        <attvalues>
+          <attvalue for="cluster" value="13"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.1818"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="108.697975" y="-196.56464"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="9882" label="sterk, wolfgang">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.8889"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="790.0786" y="-686.12775"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="9885" label="stern, nicholas">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.8333"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-145.11613" y="343.07007"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="9888" label="sterner, thomas">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.1429"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="59.09091"></viz:size>
+        <viz:position x="356.70547" y="293.93616"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="9970" label="sturm, bodo">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="12.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="15.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.1333"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="-360.83176" y="-47.960148"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="10127" label="sévi, benoît">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.5"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-902.38055" y="642.39874"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="10185" label="tang, bao jun">
+        <attvalues>
+          <attvalue for="cluster" value="23"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2017.5556"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-1023.98047" y="523.048"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="10270" label="teng, fei">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.3333"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="-383.0925" y="260.45706"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="10493" label="tuerk, andreas">
+        <attvalues>
+          <attvalue for="cluster" value="9"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="10.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.625"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="752.4101" y="-673.2905"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="10552" label="uhrig-homburg, marliese">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.75"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-118.60275" y="760.1116"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="10617" label="van asselt, harro">
+        <attvalues>
+          <attvalue for="cluster" value="5"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.6667"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="703.5665" y="-418.40848"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="10634" label="van der gaast, wytze">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2009.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.06993" y="-1050.2407"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="10678" label="van zeben, josephine">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="13.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.5385"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="504.7213" y="-932.66486"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="10774" label="victor, david g.">
+        <attvalues>
+          <attvalue for="cluster" value="17"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2007.8333"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-1056.7075" y="-590.4311"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="10784" label="viguier, laurent">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2003.8"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-179.79385" y="-447.4059"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11001" label="wang, ke">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2017.2222"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-896.44745" y="514.86676"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="11071" label="wang, xin">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="14.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.6429"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-386.14648" y="318.15326"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="11076" label="wang, xu">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2017.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-323.02" y="748.83417"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="11163" label="wei, dan">
+        <attvalues>
+          <attvalue for="cluster" value="21"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.2"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="330.06796" y="374.40723"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="11174" label="wei, yi ming">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="16.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="18.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.6667"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="-882.6117" y="516.3519"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="11191" label="weishaar, stefan">
+        <attvalues>
+          <attvalue for="cluster" value="2"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="36.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.8889"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="75.454544"></viz:size>
+        <viz:position x="466.61975" y="-902.9438"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="11192" label="weishaar, stefan e.">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.6667"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="328.4434" y="-975.2054"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="11210" label="welsch, heinz">
+        <attvalues>
+          <attvalue for="cluster" value="7"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2003.7143"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-406.5019" y="-177.32019"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="11214" label="wen, fushuan">
+        <attvalues>
+          <attvalue for="cluster" value="18"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="13.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2011.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-202.87798" y="1150.8994"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11247" label="wettestad, jørgen">
+        <attvalues>
+          <attvalue for="cluster" value="17"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="24.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="39.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.8205"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="59.09091"></viz:size>
+        <viz:position x="-1018.1592" y="-530.93567"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11332" label="winchester, niven">
+        <attvalues>
+          <attvalue for="cluster" value="10"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.5"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-321.2455" y="-353.77908"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11363" label="woerdman, edwin">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="15.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="23.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.2174"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="67.27273"></viz:size>
+        <viz:position x="206.79758" y="-1000.22375"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="11425" label="wråke, markus">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="6.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="18.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.25"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="50.909092"></viz:size>
+        <viz:position x="510.50168" y="363.4"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="11444" label="wu, libo">
+        <attvalues>
+          <attvalue for="cluster" value="8"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.8"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="67.27273"></viz:size>
+        <viz:position x="-477.92963" y="110.66771"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="11621" label="xue, yusheng">
+        <attvalues>
+          <attvalue for="cluster" value="18"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="16.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2013.3333"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-201.28003" y="1178.6853"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11755" label="ye, bin">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.6667"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-835.0516" y="-216.82373"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11886" label="yu, yanni">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="5.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.8"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="378.70334" y="1042.766"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11942" label="zaklan, aleksandar">
+        <attvalues>
+          <attvalue for="cluster" value="20"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.5714"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="145.19548" y="-332.9955"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="12000" label="zetterberg, lars">
+        <attvalues>
+          <attvalue for="cluster" value="6"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="11.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="12.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2010.25"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="67.27273"></viz:size>
+        <viz:position x="511.5238" y="420.58496"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="12007" label="zhang, bing">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="7.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.1429"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="258.46426" y="801.00183"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="12017" label="zhang, da">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="17.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="42.727272"></viz:size>
+        <viz:position x="-554.0104" y="-338.60855"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="12026" label="zhang, fang">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2018.1667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-350.67404" y="823.1405"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="12086" label="zhang, ning">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="8.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.625"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="387.65323" y="1061.735"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="12107" label="zhang, wei">
+        <attvalues>
+          <attvalue for="cluster" value="15"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="5.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="10.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2015.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="183.92079" y="611.3279"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="12126" label="zhang, xiliang">
+        <attvalues>
+          <attvalue for="cluster" value="3"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="8.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="19.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="75.454544"></viz:size>
+        <viz:position x="-532.77167" y="-310.64578"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="12159" label="zhang, yue jun">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="9.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2014.3333"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="-921.2362" y="512.39484"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="12171" label="zhang, zhong xiang">
+        <attvalues>
+          <attvalue for="cluster" value="21"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="4.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="20.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2004.05"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-25.857788" y="184.26457"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="12173" label="zhang, zhongxiang">
+        <attvalues>
+          <attvalue for="cluster" value="4"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="1.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="16.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2012.1875"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.181818"></viz:size>
+        <viz:position x="138.0653" y="-946.92633"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="12318" label="zhu, bangzhu">
+        <attvalues>
+          <attvalue for="cluster" value="11"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="2.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="7.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="6.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.5"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="26.363636"></viz:size>
+        <viz:position x="-902.3243" y="579.70746"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="12325" label="zhu, lei">
+        <attvalues>
+          <attvalue for="cluster" value="1"></attvalue>
+          <attvalue for="weight&lt;links&gt;" value="3.0"></attvalue>
+          <attvalue for="weight&lt;total_link_strength&gt;" value="9.0"></attvalue>
+          <attvalue for="weight&lt;documents&gt;" value="11.0"></attvalue>
+          <attvalue for="score&lt;avg._pub._year&gt;" value="2016.5455"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.545456"></viz:size>
+        <viz:position x="-302.60947" y="714.339"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="47" target="8580" weight="4.0"></edge>
+      <edge id="1" source="161" target="1646" weight="8.0"></edge>
+      <edge id="2" source="161" target="1732" weight="5.0"></edge>
+      <edge id="3" source="163" target="11363"></edge>
+      <edge id="4" source="178" target="290"></edge>
+      <edge id="5" source="178" target="6533" weight="2.0"></edge>
+      <edge id="6" source="178" target="7685"></edge>
+      <edge id="7" source="290" target="1213" weight="2.0"></edge>
+      <edge id="8" source="290" target="7685" weight="3.0"></edge>
+      <edge id="9" source="301" target="3916" weight="7.0"></edge>
+      <edge id="10" source="301" target="5924" weight="7.0"></edge>
+      <edge id="11" source="301" target="8205"></edge>
+      <edge id="12" source="334" target="2992" weight="2.0"></edge>
+      <edge id="13" source="334" target="7277"></edge>
+      <edge id="14" source="428" target="1204"></edge>
+      <edge id="15" source="428" target="3674" weight="3.0"></edge>
+      <edge id="16" source="479" target="2669" weight="4.0"></edge>
+      <edge id="17" source="479" target="4947" weight="5.0"></edge>
+      <edge id="18" source="479" target="7234" weight="3.0"></edge>
+      <edge id="19" source="479" target="9187" weight="5.0"></edge>
+      <edge id="20" source="480" target="6591"></edge>
+      <edge id="21" source="762" target="2629"></edge>
+      <edge id="22" source="762" target="2835"></edge>
+      <edge id="23" source="762" target="3674"></edge>
+      <edge id="24" source="762" target="4949"></edge>
+      <edge id="25" source="762" target="5172"></edge>
+      <edge id="26" source="762" target="6591"></edge>
+      <edge id="27" source="762" target="7495"></edge>
+      <edge id="28" source="762" target="8800" weight="3.0"></edge>
+      <edge id="29" source="762" target="9085" weight="2.0"></edge>
+      <edge id="30" source="762" target="9177" weight="6.0"></edge>
+      <edge id="31" source="762" target="9312"></edge>
+      <edge id="32" source="781" target="6336"></edge>
+      <edge id="33" source="781" target="12007" weight="3.0"></edge>
+      <edge id="34" source="781" target="12107"></edge>
+      <edge id="35" source="892" target="1204"></edge>
+      <edge id="36" source="907" target="5694" weight="4.0"></edge>
+      <edge id="37" source="907" target="6533"></edge>
+      <edge id="38" source="907" target="7301"></edge>
+      <edge id="39" source="907" target="11210" weight="2.0"></edge>
+      <edge id="40" source="1057" target="1204"></edge>
+      <edge id="41" source="1057" target="10617"></edge>
+      <edge id="42" source="1139" target="1353" weight="5.0"></edge>
+      <edge id="43" source="1140" target="1353" weight="5.0"></edge>
+      <edge id="44" source="1140" target="2669" weight="6.0"></edge>
+      <edge id="45" source="1186" target="2593" weight="2.0"></edge>
+      <edge id="46" source="1186" target="2992" weight="2.0"></edge>
+      <edge id="47" source="1186" target="3016" weight="2.0"></edge>
+      <edge id="48" source="1186" target="6532" weight="2.0"></edge>
+      <edge id="49" source="1186" target="6672" weight="4.0"></edge>
+      <edge id="50" source="1186" target="7884" weight="5.0"></edge>
+      <edge id="51" source="1186" target="9888"></edge>
+      <edge id="52" source="1186" target="11425" weight="7.0"></edge>
+      <edge id="53" source="1186" target="12000" weight="3.0"></edge>
+      <edge id="54" source="1204" target="3674"></edge>
+      <edge id="55" source="1204" target="5021"></edge>
+      <edge id="56" source="1204" target="6672"></edge>
+      <edge id="57" source="1204" target="7089" weight="8.0"></edge>
+      <edge id="58" source="1204" target="9543"></edge>
+      <edge id="59" source="1213" target="5314" weight="2.0"></edge>
+      <edge id="60" source="1213" target="5694" weight="7.0"></edge>
+      <edge id="61" source="1213" target="6533" weight="2.0"></edge>
+      <edge id="62" source="1213" target="7301" weight="9.0"></edge>
+      <edge id="63" source="1213" target="7685" weight="2.0"></edge>
+      <edge id="64" source="1213" target="8850" weight="2.0"></edge>
+      <edge id="65" source="1213" target="8935" weight="4.0"></edge>
+      <edge id="66" source="1213" target="9970" weight="2.0"></edge>
+      <edge id="67" source="1213" target="11210" weight="2.0"></edge>
+      <edge id="68" source="1353" target="2669" weight="4.0"></edge>
+      <edge id="69" source="1370" target="2201"></edge>
+      <edge id="70" source="1370" target="3260" weight="3.0"></edge>
+      <edge id="71" source="1370" target="8586" weight="2.0"></edge>
+      <edge id="72" source="1468" target="1646"></edge>
+      <edge id="73" source="1595" target="4250" weight="4.0"></edge>
+      <edge id="74" source="1595" target="9543" weight="3.0"></edge>
+      <edge id="75" source="1642" target="3723" weight="4.0"></edge>
+      <edge id="76" source="1646" target="1732" weight="5.0"></edge>
+      <edge id="77" source="1646" target="8474"></edge>
+      <edge id="78" source="1646" target="10127" weight="6.0"></edge>
+      <edge id="79" source="1646" target="11174"></edge>
+      <edge id="80" source="1646" target="12318" weight="4.0"></edge>
+      <edge id="81" source="1684" target="6336"></edge>
+      <edge id="82" source="1684" target="11886" weight="2.0"></edge>
+      <edge id="83" source="1776" target="11363" weight="2.0"></edge>
+      <edge id="84" source="1857" target="2188"></edge>
+      <edge id="85" source="1857" target="2330" weight="5.0"></edge>
+      <edge id="86" source="1857" target="2670" weight="3.0"></edge>
+      <edge id="87" source="1857" target="4724" weight="2.0"></edge>
+      <edge id="88" source="1922" target="7486"></edge>
+      <edge id="89" source="1922" target="11192" weight="5.0"></edge>
+      <edge id="90" source="1922" target="11363" weight="3.0"></edge>
+      <edge id="91" source="2021" target="5924" weight="2.0"></edge>
+      <edge id="92" source="2031" target="2245" weight="4.0"></edge>
+      <edge id="93" source="2188" target="2670"></edge>
+      <edge id="94" source="2188" target="11191"></edge>
+      <edge id="95" source="2201" target="11363" weight="2.0"></edge>
+      <edge id="96" source="2245" target="2669"></edge>
+      <edge id="97" source="2245" target="2670"></edge>
+      <edge id="98" source="2261" target="8474" weight="5.0"></edge>
+      <edge id="99" source="2269" target="4268" weight="4.0"></edge>
+      <edge id="100" source="2269" target="8158" weight="2.0"></edge>
+      <edge id="101" source="2269" target="11174"></edge>
+      <edge id="102" source="2290" target="4667"></edge>
+      <edge id="103" source="2290" target="6722" weight="2.0"></edge>
+      <edge id="104" source="2290" target="11942" weight="2.0"></edge>
+      <edge id="105" source="2330" target="4724" weight="3.0"></edge>
+      <edge id="106" source="2501" target="7919" weight="7.0"></edge>
+      <edge id="107" source="2501" target="8432"></edge>
+      <edge id="108" source="2501" target="11247"></edge>
+      <edge id="109" source="2501" target="11444"></edge>
+      <edge id="110" source="2501" target="12126"></edge>
+      <edge id="111" source="2545" target="5172" weight="2.0"></edge>
+      <edge id="112" source="2545" target="8158"></edge>
+      <edge id="113" source="2545" target="9177" weight="4.0"></edge>
+      <edge id="114" source="2545" target="9250" weight="2.0"></edge>
+      <edge id="115" source="2593" target="2992"></edge>
+      <edge id="116" source="2593" target="3016" weight="8.0"></edge>
+      <edge id="117" source="2593" target="3204" weight="3.0"></edge>
+      <edge id="118" source="2593" target="3649" weight="2.0"></edge>
+      <edge id="119" source="2593" target="4684" weight="2.0"></edge>
+      <edge id="120" source="2593" target="5384" weight="4.0"></edge>
+      <edge id="121" source="2593" target="6768" weight="5.0"></edge>
+      <edge id="122" source="2593" target="12000"></edge>
+      <edge id="123" source="2625" target="4324" weight="5.0"></edge>
+      <edge id="124" source="2625" target="9177" weight="4.0"></edge>
+      <edge id="125" source="2625" target="9312" weight="4.0"></edge>
+      <edge id="126" source="2625" target="10552"></edge>
+      <edge id="127" source="2629" target="2835" weight="2.0"></edge>
+      <edge id="128" source="2629" target="9177"></edge>
+      <edge id="129" source="2629" target="9250" weight="2.0"></edge>
+      <edge id="130" source="2635" target="3719"></edge>
+      <edge id="131" source="2635" target="9628" weight="2.0"></edge>
+      <edge id="132" source="2635" target="11247"></edge>
+      <edge id="133" source="2667" target="4667" weight="2.0"></edge>
+      <edge id="134" source="2667" target="7893"></edge>
+      <edge id="135" source="2667" target="8628"></edge>
+      <edge id="136" source="2669" target="4947" weight="6.0"></edge>
+      <edge id="137" source="2669" target="6722"></edge>
+      <edge id="138" source="2669" target="7234" weight="5.0"></edge>
+      <edge id="139" source="2669" target="7893"></edge>
+      <edge id="140" source="2669" target="8627"></edge>
+      <edge id="141" source="2669" target="9187" weight="5.0"></edge>
+      <edge id="142" source="2669" target="11942" weight="2.0"></edge>
+      <edge id="143" source="2670" target="4667"></edge>
+      <edge id="144" source="2835" target="9177"></edge>
+      <edge id="145" source="2835" target="11071"></edge>
+      <edge id="146" source="2835" target="11076" weight="2.0"></edge>
+      <edge id="147" source="2835" target="12325" weight="5.0"></edge>
+      <edge id="148" source="2871" target="3324" weight="3.0"></edge>
+      <edge id="149" source="2871" target="3916" weight="3.0"></edge>
+      <edge id="150" source="2871" target="4289" weight="3.0"></edge>
+      <edge id="151" source="2874" target="8065" weight="5.0"></edge>
+      <edge id="152" source="2992" target="3016"></edge>
+      <edge id="153" source="2992" target="5172" weight="2.0"></edge>
+      <edge id="154" source="2992" target="9888"></edge>
+      <edge id="155" source="2992" target="11425"></edge>
+      <edge id="156" source="2992" target="12000" weight="2.0"></edge>
+      <edge id="157" source="3016" target="3204" weight="2.0"></edge>
+      <edge id="158" source="3016" target="3649"></edge>
+      <edge id="159" source="3016" target="4684" weight="3.0"></edge>
+      <edge id="160" source="3016" target="5384" weight="3.0"></edge>
+      <edge id="161" source="3016" target="6768" weight="4.0"></edge>
+      <edge id="162" source="3016" target="8841"></edge>
+      <edge id="163" source="3016" target="11163"></edge>
+      <edge id="164" source="3016" target="12000"></edge>
+      <edge id="165" source="3204" target="3649" weight="5.0"></edge>
+      <edge id="166" source="3204" target="4684"></edge>
+      <edge id="167" source="3204" target="5384" weight="6.0"></edge>
+      <edge id="168" source="3324" target="3916" weight="3.0"></edge>
+      <edge id="169" source="3324" target="4289" weight="3.0"></edge>
+      <edge id="170" source="3324" target="5876" weight="6.0"></edge>
+      <edge id="171" source="3324" target="9543"></edge>
+      <edge id="172" source="3646" target="4220" weight="3.0"></edge>
+      <edge id="173" source="3649" target="4684"></edge>
+      <edge id="174" source="3649" target="5384" weight="5.0"></edge>
+      <edge id="175" source="3674" target="4142" weight="2.0"></edge>
+      <edge id="176" source="3674" target="4949"></edge>
+      <edge id="177" source="3674" target="6533"></edge>
+      <edge id="178" source="3674" target="7495" weight="5.0"></edge>
+      <edge id="179" source="3674" target="9085"></edge>
+      <edge id="180" source="3674" target="10270"></edge>
+      <edge id="181" source="3674" target="11444"></edge>
+      <edge id="182" source="3719" target="10774"></edge>
+      <edge id="183" source="3719" target="11247" weight="5.0"></edge>
+      <edge id="184" source="3723" target="6174"></edge>
+      <edge id="185" source="3723" target="11191"></edge>
+      <edge id="186" source="3845" target="6987" weight="2.0"></edge>
+      <edge id="187" source="3845" target="7158" weight="3.0"></edge>
+      <edge id="188" source="3916" target="4289" weight="3.0"></edge>
+      <edge id="189" source="3916" target="5924" weight="7.0"></edge>
+      <edge id="190" source="3916" target="8205"></edge>
+      <edge id="191" source="3955" target="9767"></edge>
+      <edge id="192" source="4010" target="10784" weight="2.0"></edge>
+      <edge id="193" source="4081" target="4949" weight="2.0"></edge>
+      <edge id="194" source="4081" target="6506"></edge>
+      <edge id="195" source="4081" target="6533"></edge>
+      <edge id="196" source="4100" target="4142"></edge>
+      <edge id="197" source="4142" target="9885" weight="2.0"></edge>
+      <edge id="198" source="4220" target="11191"></edge>
+      <edge id="199" source="4250" target="9543" weight="4.0"></edge>
+      <edge id="200" source="4268" target="8158"></edge>
+      <edge id="201" source="4324" target="9177" weight="6.0"></edge>
+      <edge id="202" source="4324" target="9312" weight="5.0"></edge>
+      <edge id="203" source="4401" target="10185" weight="6.0"></edge>
+      <edge id="204" source="4428" target="4808" weight="5.0"></edge>
+      <edge id="205" source="4428" target="11214" weight="2.0"></edge>
+      <edge id="206" source="4428" target="11621" weight="5.0"></edge>
+      <edge id="207" source="4550" target="6533" weight="3.0"></edge>
+      <edge id="208" source="4626" target="7495" weight="2.0"></edge>
+      <edge id="209" source="4667" target="7893" weight="2.0"></edge>
+      <edge id="210" source="4667" target="8628" weight="4.0"></edge>
+      <edge id="211" source="4667" target="9187" weight="2.0"></edge>
+      <edge id="212" source="4684" target="5384" weight="2.0"></edge>
+      <edge id="213" source="4684" target="6768" weight="3.0"></edge>
+      <edge id="214" source="4777" target="11247" weight="9.0"></edge>
+      <edge id="215" source="4808" target="11214" weight="2.0"></edge>
+      <edge id="216" source="4808" target="11621" weight="5.0"></edge>
+      <edge id="217" source="4931" target="10617" weight="2.0"></edge>
+      <edge id="218" source="4947" target="7234" weight="4.0"></edge>
+      <edge id="219" source="4947" target="9187" weight="6.0"></edge>
+      <edge id="220" source="4949" target="6533" weight="2.0"></edge>
+      <edge id="221" source="4949" target="7495"></edge>
+      <edge id="222" source="4949" target="8432"></edge>
+      <edge id="223" source="4949" target="10270" weight="2.0"></edge>
+      <edge id="224" source="4949" target="11071"></edge>
+      <edge id="225" source="4949" target="11444"></edge>
+      <edge id="226" source="5082" target="8432"></edge>
+      <edge id="227" source="5082" target="8580" weight="2.0"></edge>
+      <edge id="228" source="5082" target="11332"></edge>
+      <edge id="229" source="5082" target="12017" weight="7.0"></edge>
+      <edge id="230" source="5082" target="12126" weight="7.0"></edge>
+      <edge id="231" source="5172" target="7234"></edge>
+      <edge id="232" source="5172" target="8247"></edge>
+      <edge id="233" source="5172" target="9312"></edge>
+      <edge id="234" source="5172" target="9888"></edge>
+      <edge id="235" source="5172" target="12107" weight="3.0"></edge>
+      <edge id="236" source="5188" target="8085"></edge>
+      <edge id="237" source="5188" target="9543"></edge>
+      <edge id="238" source="5188" target="10493"></edge>
+      <edge id="239" source="5188" target="11191"></edge>
+      <edge id="240" source="5314" target="7301" weight="2.0"></edge>
+      <edge id="241" source="5314" target="7486"></edge>
+      <edge id="242" source="5334" target="6533" weight="3.0"></edge>
+      <edge id="243" source="5334" target="8158" weight="5.0"></edge>
+      <edge id="244" source="5392" target="5619" weight="4.0"></edge>
+      <edge id="245" source="5392" target="6533" weight="2.0"></edge>
+      <edge id="246" source="5392" target="7893"></edge>
+      <edge id="247" source="5392" target="8627"></edge>
+      <edge id="248" source="5525" target="9882"></edge>
+      <edge id="249" source="5694" target="6533"></edge>
+      <edge id="250" source="5694" target="7301" weight="4.0"></edge>
+      <edge id="251" source="5876" target="9543"></edge>
+      <edge id="252" source="5924" target="8205"></edge>
+      <edge id="253" source="6280" target="6566" weight="3.0"></edge>
+      <edge id="254" source="6336" target="12107"></edge>
+      <edge id="255" source="6362" target="6506" weight="3.0"></edge>
+      <edge id="256" source="6362" target="6671"></edge>
+      <edge id="257" source="6362" target="9970"></edge>
+      <edge id="258" source="6506" target="6533" weight="2.0"></edge>
+      <edge id="259" source="6506" target="6671" weight="2.0"></edge>
+      <edge id="260" source="6532" target="9888"></edge>
+      <edge id="261" source="6532" target="11425" weight="3.0"></edge>
+      <edge id="262" source="6532" target="12000"></edge>
+      <edge id="263" source="6533" target="6671"></edge>
+      <edge id="264" source="6533" target="7301"></edge>
+      <edge id="265" source="6533" target="7495"></edge>
+      <edge id="266" source="6533" target="7685"></edge>
+      <edge id="267" source="6533" target="7893"></edge>
+      <edge id="268" source="6533" target="8627"></edge>
+      <edge id="269" source="6533" target="9970" weight="7.0"></edge>
+      <edge id="270" source="6533" target="10270"></edge>
+      <edge id="271" source="6533" target="11444"></edge>
+      <edge id="272" source="6533" target="12171" weight="2.0"></edge>
+      <edge id="273" source="6566" target="11755" weight="2.0"></edge>
+      <edge id="274" source="6591" target="11214" weight="3.0"></edge>
+      <edge id="275" source="6672" target="11425" weight="4.0"></edge>
+      <edge id="276" source="6722" target="11942" weight="3.0"></edge>
+      <edge id="277" source="6987" target="9882" weight="3.0"></edge>
+      <edge id="278" source="6987" target="10493" weight="3.0"></edge>
+      <edge id="279" source="6987" target="10617"></edge>
+      <edge id="280" source="7234" target="8247"></edge>
+      <edge id="281" source="7234" target="9187" weight="4.0"></edge>
+      <edge id="282" source="7234" target="9888"></edge>
+      <edge id="283" source="7301" target="9970" weight="2.0"></edge>
+      <edge id="284" source="7486" target="11191"></edge>
+      <edge id="285" source="7486" target="11363" weight="5.0"></edge>
+      <edge id="286" source="7486" target="12173"></edge>
+      <edge id="287" source="7495" target="8474"></edge>
+      <edge id="288" source="7495" target="9073"></edge>
+      <edge id="289" source="7495" target="9085" weight="4.0"></edge>
+      <edge id="290" source="7495" target="9250"></edge>
+      <edge id="291" source="7495" target="10270"></edge>
+      <edge id="292" source="7495" target="11444"></edge>
+      <edge id="293" source="7893" target="8627" weight="5.0"></edge>
+      <edge id="294" source="7893" target="8628" weight="3.0"></edge>
+      <edge id="295" source="7893" target="11332" weight="3.0"></edge>
+      <edge id="296" source="7919" target="12126"></edge>
+      <edge id="297" source="8065" target="11191" weight="2.0"></edge>
+      <edge id="298" source="8065" target="11192"></edge>
+      <edge id="299" source="8085" target="9543"></edge>
+      <edge id="300" source="8085" target="10493"></edge>
+      <edge id="301" source="8158" target="11174"></edge>
+      <edge id="302" source="8247" target="9888"></edge>
+      <edge id="303" source="8247" target="12126"></edge>
+      <edge id="304" source="8352" target="8432" weight="2.0"></edge>
+      <edge id="305" source="8352" target="11755"></edge>
+      <edge id="306" source="8432" target="11444"></edge>
+      <edge id="307" source="8432" target="11755"></edge>
+      <edge id="308" source="8432" target="12017"></edge>
+      <edge id="309" source="8432" target="12126"></edge>
+      <edge id="310" source="8474" target="9073"></edge>
+      <edge id="311" source="8474" target="9085"></edge>
+      <edge id="312" source="8474" target="9767"></edge>
+      <edge id="313" source="8580" target="12017" weight="2.0"></edge>
+      <edge id="314" source="8580" target="12126"></edge>
+      <edge id="315" source="8627" target="10784"></edge>
+      <edge id="316" source="8628" target="11332"></edge>
+      <edge id="317" source="8800" target="9177" weight="4.0"></edge>
+      <edge id="318" source="8841" target="11163" weight="5.0"></edge>
+      <edge id="319" source="8841" target="12171" weight="2.0"></edge>
+      <edge id="320" source="9073" target="9085" weight="2.0"></edge>
+      <edge id="321" source="9085" target="9250"></edge>
+      <edge id="322" source="9177" target="9250" weight="2.0"></edge>
+      <edge id="323" source="9177" target="9312" weight="5.0"></edge>
+      <edge id="324" source="9177" target="12325"></edge>
+      <edge id="325" source="9187" target="9849" weight="4.0"></edge>
+      <edge id="326" source="9543" target="10493"></edge>
+      <edge id="327" source="9628" target="11247" weight="7.0"></edge>
+      <edge id="328" source="9882" target="10493" weight="3.0"></edge>
+      <edge id="329" source="9888" target="11425"></edge>
+      <edge id="330" source="9888" target="12000"></edge>
+      <edge id="331" source="10185" target="11174"></edge>
+      <edge id="332" source="10270" target="11071" weight="5.0"></edge>
+      <edge id="333" source="10270" target="11444"></edge>
+      <edge id="334" source="10493" target="11191"></edge>
+      <edge id="335" source="10634" target="11363"></edge>
+      <edge id="336" source="10678" target="11191"></edge>
+      <edge id="337" source="10774" target="11247"></edge>
+      <edge id="338" source="11001" target="11174" weight="7.0"></edge>
+      <edge id="339" source="11076" target="12026"></edge>
+      <edge id="340" source="11076" target="12325" weight="3.0"></edge>
+      <edge id="341" source="11174" target="12159" weight="2.0"></edge>
+      <edge id="342" source="11174" target="12318" weight="3.0"></edge>
+      <edge id="343" source="11191" target="11192" weight="2.0"></edge>
+      <edge id="344" source="11192" target="11363"></edge>
+      <edge id="345" source="11214" target="11621" weight="6.0"></edge>
+      <edge id="346" source="11332" target="12017"></edge>
+      <edge id="347" source="11332" target="12126"></edge>
+      <edge id="348" source="11425" target="12000" weight="2.0"></edge>
+      <edge id="349" source="11886" target="12086" weight="3.0"></edge>
+      <edge id="350" source="12017" target="12126" weight="6.0"></edge>
+    </edges>
+  </graph>
+</gexf>
